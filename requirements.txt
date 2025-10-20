@@ -1,0 +1,7 @@
+torch>=2.2.0
+torchvision
+numpy
+tqdm
+open3d
+matplotlib
+pyyaml
